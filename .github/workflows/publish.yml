@@ -19,5 +19,4 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: d87f4560a812765bf07460f8754ffb6d
           projectName: pegionsong
-          directory: dist.js
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
