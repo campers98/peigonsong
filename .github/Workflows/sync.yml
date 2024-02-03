@@ -11,5 +11,5 @@ jobs:
             with:
             source_repo: 'https://github.com/TBXark/ChatGPT-Telegram-Workers'
             target_repo: 'https://github.com/campers98/peigonsong'
-            github_token: ${{ secrets.GITHUB_TOKEN }} 
+            github_token: ${{ yukkisecrettoken }} 
             source_branch: 'master'
